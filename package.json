@@ -1,0 +1,23 @@
+{
+  "name": "script-loader",
+  "version": "1.0.0",
+  "description": "A modern day promise based script loader with built in caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhkhandelwal/Script-Loader.git"
+  },
+  "keywords": [
+    "script",
+    "loader"
+  ],
+  "author": "Saurabh Khandelwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhkhandelwal/Script-Loader/issues"
+  },
+  "homepage": "https://github.com/saurabhkhandelwal/Script-Loader#readme"
+}
