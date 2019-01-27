@@ -1,0 +1,2 @@
+var n={};module.exports=function(e,r){void 0===r&&(r={});var o=e.map(function(e){if(n[e])return n[e];var o=function(n,e){return new Promise(function(r,o){var t=document.createElement("script");t.async=e.async,t.defer=e.defer,t.onload=function(){r()},t.onerror=function(){o()},t.src=n,document.getElementsByTagName("body")[0].appendChild(t)})}(e,r);return n[e]=o,o});return Promise.all(o)};
+//# sourceMappingURL=index.mjs.map

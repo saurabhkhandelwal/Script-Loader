@@ -1,0 +1,2 @@
+!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?n():"function"==typeof define&&define.amd?define(n):n()}(0,function(){var e={};module.exports=function(n,o){void 0===o&&(o={});var t=n.map(function(n){if(e[n])return e[n];var t=function(e,n){return new Promise(function(o,t){var r=document.createElement("script");r.async=n.async,r.defer=n.defer,r.onload=function(){o()},r.onerror=function(){t()},r.src=e,document.getElementsByTagName("body")[0].appendChild(r)})}(n,o);return e[n]=t,t});return Promise.all(t)}});
+//# sourceMappingURL=index.umd.js.map
