@@ -2,13 +2,16 @@
 A Promise based script loader with in built caching
 
 ## To Install
-``` npm i async-script-loader
+``` 
+npm i async-script-loader
 ```
 
 ## To Use
-``` import scriptLoader from '@script-loader'
+``` 
+import scriptLoader from '@script-loader'
 
-    scriptLoader([], options = {})
+scriptLoader([], options = {})
+
 ```
 
 ## Options value
