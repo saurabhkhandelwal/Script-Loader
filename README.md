@@ -23,7 +23,7 @@ this will return a promise
 
 options : {
   "async": boolean,
-  "defer": boolean,
+  "defer": boolean
 }
 
 ```
