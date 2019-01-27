@@ -1,11 +1,11 @@
-# Async-Script-Loader
+# Promised-Script-Loader
 
 A Promise based script loader with in built caching. Supports both async and defer loading.
 
 
 ## To Install
 ``` 
-npm i async-script-loader
+npm i Promised-script-loader
 ```
 
 ## To Use
