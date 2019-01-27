@@ -1,6 +1,6 @@
 {
   "name": "promised-script-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modern day promise based script loader with built in caching",
   "main": "src/index.js",
   "scripts": {
