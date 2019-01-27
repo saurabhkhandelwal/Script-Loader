@@ -13,7 +13,11 @@
   },
   "keywords": [
     "script",
-    "loader"
+    "loader",
+    "promise",
+    "async",
+    "caching",
+    "defer"
   ],
   "author": "Saurabh Khandelwal",
   "license": "MIT",
