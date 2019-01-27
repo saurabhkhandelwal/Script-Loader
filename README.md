@@ -12,12 +12,21 @@ import scriptLoader from '@script-loader'
 
 scriptLoader([ an array of all the scripts to load ], options = { how to load it })
 
+``` 
+this will return a promise
+
+```
+
+## Load Options
+
 options : {
   "async": boolean,
   "defer": boolean,
 }
 
 ```
+
+
 
 MIT License
 Copyright (c) 2019 Saurabh Khandelwal
