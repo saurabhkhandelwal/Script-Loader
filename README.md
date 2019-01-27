@@ -7,7 +7,8 @@ A Promise based script loader with in built caching. Supports both async and def
 </a>
 
 
-## To Install``` 
+## To Install
+``` 
 npm i Promised-script-loader
 ```
 
