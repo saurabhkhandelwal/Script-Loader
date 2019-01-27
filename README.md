@@ -13,6 +13,10 @@ npm i async-script-loader
 import scriptLoader from '@script-loader'
 
 scriptLoader([ an array of all the scripts to load ], options = { how to load it })
+      .then(() => {
+        console.log('script has been loaded')
+      })
+      .catch(err => console.log(err))
 
 ``` 
 this will return a promise
@@ -29,7 +33,7 @@ options : {
 ```
 
 
-## Authors
+## Author
 
 Saurabh khandelwal (https://github.com/saurabhkhandelwal)
 
