@@ -3,7 +3,7 @@
 A Promise based script loader with in built caching. Supports both async and defer loading.
 
 
-## To Install
+## To Install (https://img.shields.io/npm/v/promised-script-loader.svg?colorB=green&style=popout)
 ``` 
 npm i Promised-script-loader
 ```
