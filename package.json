@@ -2,7 +2,7 @@
   "name": "script-loader",
   "version": "1.0.0",
   "description": "A modern day promise based script loader with built in caching",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "build": "microbundle",
     "dev": "microbundle watch"
