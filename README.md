@@ -10,15 +10,17 @@ npm i async-script-loader
 ``` 
 import scriptLoader from '@script-loader'
 
-scriptLoader([], options = {})
+scriptLoader([ an array of all the scripts to load ], options = { how to load it })
+
+### Options 
+``` options : {
+      "async": boolean,
+      "defer": boolean,
+}
 
 ```
 
-## Options value
-``` options : {
-  "async": boolean,
-  "defer": boolean,
-}
+
 ```
 
 
