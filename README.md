@@ -36,6 +36,7 @@ options : {
 
 ```
 
+**Please leave a star if you like it**
 
 ## Author
 
