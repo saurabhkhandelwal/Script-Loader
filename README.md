@@ -36,7 +36,6 @@ options : {
 
 ```
 
-**Please leave a star if you like it**
 
 ## Author
 
@@ -45,3 +44,6 @@ Saurabh khandelwal (https://github.com/saurabhkhandelwal)
 ## License
 
 MIT License
+
+
+**Please leave a star if you like it**
